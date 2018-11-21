@@ -1,0 +1,10 @@
+CREATE TABLE send_ville_france
+(
+    Code_commune_INSEE VARCHAR(255),
+	Nom_commune VARCHAR(255),
+	Code_postal VARCHAR(255),
+	Libelle_acheminement VARCHAR(255),
+	Ligne_5 VARCHAR(255),
+	Latitude VARCHAR(255),
+	Longitude VARCHAR(255)
+)
