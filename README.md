@@ -6,7 +6,7 @@ Tests related to Maven, interconnection between MySql and a Java application.
 
 Connection to a MySql database with a recovery of value (cities of France).
 
-## TP_ESEO_Maven_Git
+## TP_ESEO_Maven3
 
 Connecting an Eclipse project to a Git directory
 
