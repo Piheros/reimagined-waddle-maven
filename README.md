@@ -1,6 +1,6 @@
 # TP - Maven/BDD
 
-Tests related to Maven, interconnection between MySql and a Java application.
+Practical work around continuous integration (Maven, Git, Jenkins, SonarQube, Ngrok).
 
 ## TP_ESEO_Maven1
 
@@ -8,7 +8,7 @@ Connection to a MySql database with a recovery of value (cities of France).
 
 ## TP_ESEO_Maven3
 
-Connecting an Eclipse project to a Git directory
+Connecting an Eclipse project to a Git directory to run Jenkins Build and analyse code in SonarQube
 
 ## TP_ESEO_Maven_Send_CSV
 
